@@ -1,6 +1,13 @@
 import datetime
 
 
+"""
+Datetime contains the useful strftime() method 
+this can be used to create date objects that 
+can be formated with a number of arguments. 
+
+"""
+
 
 def method():
     var = datetime.datetime.now()
